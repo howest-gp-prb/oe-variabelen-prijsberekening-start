@@ -1,3 +1,3 @@
 # Oefening variabelen : prijsberekening
 
-### [Klik hier voor opgave](Oefening%variabelen%02.pdf)
+### [Klik hier voor opgave](Oefening%20variabelen%2002.pdf)
